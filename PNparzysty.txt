@@ -8,3 +8,4 @@ Paweł Kuźmiński https://github.com/Pawelox/Turbodiodpol
 Grzegorz Zieliński https://github.com/grzesieking10/CATCHTHEBATONIX
 Grzegorz Kulikowski https://github.com/pa221153/PWr2048 
 Kamil Bażanow https://github.com/KamilBazanow/PROJEKT
+Marcin Adamczyk https://github.com/230850/ProgramowanieObiektowe2018
